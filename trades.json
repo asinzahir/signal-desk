@@ -19,10 +19,20 @@
       "tp": 5,
       "nt": "",
       "dt": "03/05/2026"
+    },
+    {
+      "tk": "GOOGL",
+      "dir": "buy",
+      "ep": 350.91,
+      "sz": 50,
+      "sl": 3,
+      "tp": 5,
+      "nt": "",
+      "dt": "03/05/2026"
     }
   ],
   "closedTrades": [],
   "spyEntry": null,
-  "lastSaved": "2026-05-03T11:29:19.253Z",
+  "lastSaved": "2026-05-03T11:29:41.732Z",
   "version": "2.0"
 }
