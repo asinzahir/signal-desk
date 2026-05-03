@@ -1,0 +1,18 @@
+{
+  "openPositions": [
+    {
+      "tk": "NVDA",
+      "dir": "buy",
+      "ep": 210.34,
+      "sz": 50,
+      "sl": 3,
+      "tp": 5,
+      "nt": "",
+      "dt": "03/05/2026"
+    }
+  ],
+  "closedTrades": [],
+  "spyEntry": null,
+  "lastSaved": "2026-05-03T11:13:55.568Z",
+  "version": "2.0"
+}
