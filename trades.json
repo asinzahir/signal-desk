@@ -1,5 +1,6 @@
 {
-  "openPositions": [
+  "openPositions": [],
+  "closedTrades": [
     {
       "tk": "AAPL",
       "dir": "buy",
@@ -8,10 +9,12 @@
       "sl": 3,
       "tp": 5,
       "nt": "",
-      "dt": "03/05/2026"
-    }
-  ],
-  "closedTrades": [
+      "dt": "03/05/2026",
+      "xp": 277.44,
+      "pl": 1.2430275941043956,
+      "plp": 2.486055188208791,
+      "cd": "04/05/2026"
+    },
     {
       "tk": "GOOGL",
       "dir": "buy",
@@ -56,6 +59,6 @@
     }
   ],
   "spyEntry": null,
-  "lastSaved": "2026-05-04T14:02:30.977Z",
+  "lastSaved": "2026-05-04T15:03:44.183Z",
   "version": "2.0"
 }
