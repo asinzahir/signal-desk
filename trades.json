@@ -23,6 +23,18 @@
       "alpacaId": "6ba4d2a9-cf68-40ca-ae05-2d7dbbb4ca86",
       "qty": 1,
       "dt": "04/05/2026"
+    },
+    {
+      "tk": "WDC",
+      "dir": "buy",
+      "ep": 436.03,
+      "sz": 10,
+      "sl": 3,
+      "tp": 5,
+      "nt": "",
+      "alpacaId": "fe21ad63-905b-409f-8548-f4273f51cc34",
+      "qty": 1,
+      "dt": "04/05/2026"
     }
   ],
   "closedTrades": [
@@ -84,6 +96,6 @@
     }
   ],
   "spyEntry": null,
-  "lastSaved": "2026-05-04T15:36:51.640Z",
+  "lastSaved": "2026-05-04T15:37:54.648Z",
   "version": "2.0"
 }
