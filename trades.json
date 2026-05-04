@@ -1,5 +1,18 @@
 {
-  "openPositions": [],
+  "openPositions": [
+    {
+      "tk": "NVDA",
+      "dir": "buy",
+      "ep": 195.73,
+      "sz": 45,
+      "sl": 3,
+      "tp": 5,
+      "nt": "",
+      "alpacaId": "114c798a-d868-41fc-83d9-30720a7e7ffe",
+      "qty": 1,
+      "dt": "04/05/2026"
+    }
+  ],
   "closedTrades": [
     {
       "tk": "AAPL",
@@ -59,6 +72,6 @@
     }
   ],
   "spyEntry": null,
-  "lastSaved": "2026-05-04T15:03:44.183Z",
+  "lastSaved": "2026-05-04T15:33:43.609Z",
   "version": "2.0"
 }
