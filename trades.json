@@ -1,5 +1,6 @@
 {
-  "openPositions": [
+  "openPositions": [],
+  "closedTrades": [
     {
       "tk": "NVDA",
       "dir": "buy",
@@ -10,10 +11,12 @@
       "nt": "",
       "alpacaId": "114c798a-d868-41fc-83d9-30720a7e7ffe",
       "qty": 1,
-      "dt": "04/05/2026"
-    }
-  ],
-  "closedTrades": [
+      "dt": "04/05/2026",
+      "xp": 198.44,
+      "pl": 0.6230521636948877,
+      "plp": 1.3845603637664172,
+      "cd": "05/05/2026"
+    },
     {
       "tk": "MU",
       "dir": "buy",
@@ -120,6 +123,6 @@
     }
   ],
   "spyEntry": null,
-  "lastSaved": "2026-05-05T14:02:17.750Z",
+  "lastSaved": "2026-05-05T14:02:39.770Z",
   "version": "2.0"
 }
